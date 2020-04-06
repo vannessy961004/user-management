@@ -1,0 +1,14 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "a resful api",
+  "main": "index.js",
+  "scripts": {
+    "jsonserver": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
